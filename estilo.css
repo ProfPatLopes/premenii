@@ -136,14 +136,16 @@ color: #FFFFFF;
     left: 0px;
     top: 864px;
     background: #8B857B;
+    
+    
+    /* identical to box height */
+}
+.part{ 
+    padding: auto;  
     font-family: 'Indie Flower';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
-    line-height: 41px;
-    /* identical to box height */
-    
-    
     color: #FFFFFF;
     
     mix-blend-mode: luminosity;
