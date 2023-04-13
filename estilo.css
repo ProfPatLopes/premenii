@@ -69,8 +69,7 @@ color: #FFFFFF;
     height: 623px;
     left: 0px;
     top: 241px;
-    
-    background: linear-gradient(180deg, #16388F 17.19%, rgba(227, 231, 47, 0.9) 60.42%);     
+    background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);   
 }
 
 .scratch{
