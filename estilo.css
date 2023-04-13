@@ -1,5 +1,4 @@
 .menu{
-    
 position: absolute;
 width: 1440px;
 height: 27px;
@@ -8,6 +7,7 @@ top: -1px;
 
 background: #16388F;
 }
+
 .tab-menu{
     /*padding: 4px;*/
     
@@ -29,6 +29,7 @@ color: #FFFFFF;
 
 mix-blend-mode: luminosity;
 }
+
 .apre {
     position: absolute;
     width: 1440px;
@@ -38,6 +39,7 @@ mix-blend-mode: luminosity;
     
     background: #16388F;
 }
+
 .prof{
     position: absolute;
     width: 202px;
@@ -63,7 +65,7 @@ line-height: 105px;
 color: #FFFFFF;
 }
 
-.body{
+body{
     position: absolute;
     width: 1440px;
     height: 623px;
@@ -72,6 +74,7 @@ color: #FFFFFF;
     
     background: linear-gradient(180deg, #16388F 17.19%, rgba(227, 231, 47, 0.9) 60.42%);     
 }
+
 .scratch{
     
 position: absolute;
@@ -83,57 +86,7 @@ top: 257px;
 
 filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
-.avataraluno{
-    width:  100px;    
-}
 
-.game{
-    position: absolute;
-width: 180px;
-height: 70px;
-left: 322px;
-top: 404px;
-
-font-family: 'Indie Flower';
-font-style: normal;
-font-weight: 400;
-font-size: 48px;
-line-height: 70px;
-/* identical to box height */
-
-
-color: #FFFFFF;
-}
-
-
-footer{
-    position: absolute;
-    width: 1440px;
-    height: 101px;
-    left: 0px;
-    top: 923px;
-    
-    background: linear-gradient(180deg, rgba(227, 231, 47, 0.9) 0%, #16388F 100%);
-}
-.des{
-    position: absolute;
-    width: 1388px;
-    height: 41px;
-    left: 33px;
-    top: 873px;
-    
-    font-family: 'Indie Flower';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 28px;
-    line-height: 41px;
-    /* identical to box height */
-    
-    
-    color: #FFFFFF;
-    
-    mix-blend-mode: luminosity;
-}
 .cat {
     position: absolute;
 width: 221px;
@@ -166,4 +119,55 @@ left: 0px;
 top: 894px;
 
 background: linear-gradient(180deg, rgba(227, 231, 47, 0.9) 0%, #16388F 100%);
+}
+
+.game{
+    position: absolute;
+width: 180px;
+height: 70px;
+left: 322px;
+top: 404px;
+
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 70px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.avataraluno{
+    width:  100px;    
+}
+
+footer{
+    position: absolute;
+    width: 1440px;
+    height: 101px;
+    left: 0px;
+    top: 923px;
+    
+    background: linear-gradient(180deg, rgba(227, 231, 47, 0.9) 0%, #16388F 100%);
+}
+.des{
+    position: absolute;
+    width: 1388px;
+    height: 41px;
+    left: 33px;
+    top: 873px;
+    
+    font-family: 'Indie Flower';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+    mix-blend-mode: luminosity;
 }
