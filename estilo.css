@@ -107,16 +107,7 @@ top: 180px;
 background: rgba(22, 56, 143, 0.64);
 }
 
-.lista{
-   color:#16388F; 
-position: absolute;
-width: 1440px;
-height: 130px;
-left: 0px;
-top: 894px;
 
-background: linear-gradient(180deg, rgba(227, 231, 47, 0.9) 0%, #16388F 100%);
-}
 
 .game{
    
@@ -138,16 +129,6 @@ color: #FFFFFF;
 .avataraluno{
     width:  100px;    
 }
-
-footer{
-    position: absolute;
-    width: 1440px;
-    height: 101px;
-    left: 0px;
-    top: 923px;
-    
-    background: linear-gradient(180deg, rgba(227, 231, 47, 0.9) 0%, #16388F 100%);
-}
 .des{
     position: absolute;
     width: 1388px;
@@ -167,3 +148,16 @@ footer{
     
     mix-blend-mode: luminosity;
 }
+footer{
+    position: absolute;
+    width: 1440px;
+    height: 101px;
+    left: 0px;
+    top: 923px;
+    
+    background: linear-gradient(180deg, rgba(227, 231, 47, 0.9) 0%, #16388F 100%);
+}
+.lista{
+    color:#16388F; 
+}
+
