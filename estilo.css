@@ -62,7 +62,23 @@ filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     width:  100px;    
 }
 
+.game{
+    position: absolute;
+width: 180px;
+height: 70px;
+left: 322px;
+top: 404px;
 
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 70px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
 .tab-menu{
     /*padding: 4px;*/
     
