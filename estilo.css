@@ -65,7 +65,7 @@ line-height: 105px;
 color: #FFFFFF;
 }
 
-body{
+.body{
     position: absolute;
     width: 1440px;
     height: 623px;
