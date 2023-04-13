@@ -17,13 +17,11 @@ height: 41px;
 left: 1002px;
 top: -2px;
 
-font-family: 'Indie Flower';
-font-style: normal;
-font-weight: 400;
-font-size: 28px;
-line-height: 41px;
-/* identical to box height */
-
+color:white;
+        font-family: 'Lucida Sans';
+        font-size: small; 
+        font-size: 12px;
+        position: absolute;
 
 color: #FFFFFF;
 
