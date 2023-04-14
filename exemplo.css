@@ -1,0 +1,33 @@
+.cabec{
+    position: absolute;
+width: 1440px;
+height: 236px;
+left: 0px;
+top: 0px;
+
+background: rgba(75, 57, 185, 0.97);
+}
+.avatar {
+    position: absolute;
+width: 203px;
+height: 210px;
+left: 143px;
+top: 33px;
+
+}
+.ola{
+    position: absolute;
+width: 172px;
+height: 138px;
+left: 612px;
+top: 111px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 138px;
+
+color: #FFFFFF;
+
+}
