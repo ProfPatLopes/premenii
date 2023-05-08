@@ -7,7 +7,7 @@ body{
     background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%); 
 }
 .menu{
-    top:125px;
+    top:absolute;
     color:#FFFFFF;
     height: 23px;
     
@@ -19,12 +19,13 @@ background: #16388F;
 }
 
 .cabec {
-       position: absolute;
-width: 1440px;
-height: 114px;
-left: 0px;
-top: 0px;
-background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
+    position: absolute;
+    width: 1440px;
+    height: 211px;
+    left: 0px;
+    top: 30px;
+    
+    background: #16388F;
 }
 .cabec-imagem{
     position: absolute;
