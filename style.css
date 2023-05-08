@@ -1,13 +1,23 @@
 body{
+    position: absolute;
     width: 1440px;
-    background-color: #BEB883;
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
+    height: 623px;
+    left: 0px;
+    top: 241px;
+    background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%); 
 }
+.menu{
+    top:125px;
+    color:#FFFFFF;
+    height: 23px;
+    
+    display: inline-block;
+    padding: 4px;
+    margin: 0 16px;
+
+background: #16388F;
+}
+
 .cabec {
        position: absolute;
 width: 1440px;
@@ -18,33 +28,29 @@ background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
 }
 .cabec-imagem{
     position: absolute;
-    width: 111px;
-    height: 117px;
-    left: 303px;
-    top: -3px;
+    width: 202px;
+    
+    left: 181px;
+      
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-
 }
 
 .cabec-apre {
     position: absolute;
-    width: 678px;
-    height: 39px;
-    left: 410px;
-   
+width: 564px;
+height: 106px;
+left: 438px;
+top: 95px;
 
-    font-family: 'Inter';
-    font-style: italic;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 39px;
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 105px;
 
-   
-
-    color: #FFFFFF;
-
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+color: #FFFFFF;
 }
+
 
 
 .cabec-lista {
@@ -60,16 +66,7 @@ background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
     background: #829243;
 
 }
-.cabec-lista-item{
-    top:125px;
-    color:#FFFFFF;
-    height: 23px;
-    
-    display: inline-block;
-    padding: 4px;
-    margin: 0 16px;
-    
-}
+
 .desenvolvimento{
     position: absolute;
 width: 339px;
@@ -146,20 +143,15 @@ footer{
     top:786px;
     width: 1433px;
     height: 27px;
-    background: #829243;
+    background: #8B857B;
+    font-family: 'Indie Flower';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+    
+    mix-blend-mode: luminosity;
 }
 .lista{
-font-family: 'Lucida Sans';
-font-size: small; 
-text-align: left;
-font-size: 12px;
-color:#829243;
-
-position: absolute;
-width: 1440px;
-height: 114px;
-
-left: -2px;
-top: 813px;
-background: linear-gradient(180deg, rgba(130, 146, 67, 0) 0%, #829243 100%);
+    color:#16388F; 
 }
