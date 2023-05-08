@@ -1,31 +1,39 @@
 body{
-    position: absolute;
-    width: 1440px;
-    height: 623px;
-    left: 0px;
-    top: 241px;
-    background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%); 
+    
+position: absolute;
+width: 1440px;
+height: 623px;
+left: 0px;
+top: 241px;
+
+background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
 }
 .menu{
     top:absolute;
     color:#FFFFFF;
-    height: 23px;
-    
+      
     display: inline-block;
     padding: 4px;
     margin: 0 16px;
 
-background: #16388F;
+    position: absolute;
+    width: 1440px;
+    height: 28px;
+    left: 0px;
+    top: -1px;
+    
+    background: #16388F;
 }
 
 .cabec {
+   
     position: absolute;
-    width: 1440px;
-    height: 211px;
-    left: 0px;
-    top: 30px;
-    
-    background: #16388F;
+width: 1440px;
+height: 229px;
+left: 0px;
+top: 27px;
+
+background: #16388F;
 }
 .cabec-imagem{
     position: absolute;
@@ -108,34 +116,90 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     grid-template-columns: 30% 30% 30% 30% 30% 30% 30%;
 }
 
-.estudante{
-    top: 150px;
-    position: absolute;
-    padding: 24px 0;
-}
-.avataraluno{
-    width: 100px;
-}
-
-.estudante-div{
-    text-align: center;
-    padding: 16px 0;
-}
-h3{
-    
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    color: #fdfdfd;
-    text-align: center;
-    font-size: 14px;
-       
-}
 .linha {
     font-family: 'Lucida Sans';
     font-size: small; 
     font-size: 12px;
     background-color: #BEB883;
 }
+
+.scratch{
+    
+    position: absolute;
+    width: 333px;
+    height: 123px;
+    left: 549px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    }
+    
+    .cat {
+        position: absolute;
+    width: 221px;
+    height: 225px;
+    left: 18px;
+    top: 400px;
+    
+    
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    
+    }
+    .itens {
+       
+       
+    position: absolute;
+    width: 827px;
+    height: 440px;
+    left: 306px;
+    top: 180px;
+    
+    background: rgba(22, 56, 143, 0.64);
+    }
+    
+    
+    
+    .game{
+       
+    width: 180px;
+    height: 70px;
+    
+    
+    font-family: 'Indie Flower';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 70px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    }
+    
+    .avataraluno{
+        width:  100px;    
+    }
+    .lnq{
+        width: 43px;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    }
+    .des{
+        position: absolute;
+        width: 1440px;
+        height: 30px;
+        left: 0px;
+        top: 864px;
+        background: #8B857B;
+        
+    
+        
+        font-family: 'Indie Flower';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        color: #FFFFFF;
+        
+        mix-blend-mode: luminosity;
+    }
+    
 footer{
     padding: 4px;
     position: absolute;
