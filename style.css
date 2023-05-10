@@ -8,19 +8,36 @@ background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
 }
 .menu{
     top:absolute;
-    color:#FFFFFF;
-      
-    display: inline-block;
-    padding: 4px;
-    margin: 0 16px;
-
-    position: absolute;
     width: 1440px;
     height: 28px;
     left: 0px;
     top: -1px;
-    
     background: #16388F;
+}
+
+.menu-lista {
+    
+    width: 1400px;
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    font-size: 12px;
+    position: absolute;
+    
+    height: 27px;
+    left: 0px;
+    top: 114px;
+    background: #16388F;
+
+}
+.menu-lista-item{
+    top:125px;
+    color:#FFFFFF;
+    height: 23px;
+    
+    display: inline-block;
+    padding: 4px;
+    margin: 0 16px;
+    
 }
 
 .cabec {
