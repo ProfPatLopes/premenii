@@ -74,7 +74,7 @@ color: #FFFFFF;
 .estudante-todos{
     display: grid;
     text-align: center;
-    grid-template-columns: 30% 30% 30% 30% 30% 30% 30%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
 .linha {
