@@ -2,7 +2,7 @@
 width: 1440px;
 height: 623px;
 left: 0px;
-top: 241px;
+position: absolute;
 
 background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
 }
@@ -29,7 +29,7 @@ background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
 width: 1440px;
 height: 229px;
 left: 0px;
-top: 27px;
+top: 28px;
 
 background: #16388F;
 }
@@ -57,43 +57,6 @@ line-height: 105px;
 
 color: #FFFFFF;
 }
-
-
-
-.cabec-lista {
-    width: 1400px;
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    font-size: 12px;
-    position: absolute;
-    
-    height: 27px;
-    left: 0px;
-    top: 114px;
-    background: #829243;
-
-}
-
-.desenvolvimento{
-    position: absolute;
-width: 339px;
-height: 46px;
-left: 18px;
-
-
-font-family: 'M PLUS 2';
-font-style: normal;
-font-weight: 400;
-font-size: 32px;
-line-height: 46px;
-
-color: #F5F5F5;
-
-border: 1px solid #FFFAFA;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
-
-
 
 .avataralunop{
     width: 200px;
@@ -203,14 +166,14 @@ footer{
     position: absolute;
     margin:auto;
     left: -1px;
-    top:786px;
+    top:862px;
     width: 1433px;
     height: 27px;
     background: #8B857B;
     font-family: 'Indie Flower';
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     color: #FFFFFF;
     
     mix-blend-mode: luminosity;
