@@ -210,11 +210,12 @@ footer{
     font-family: 'Indie Flower';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 14px;
     color: #FFFFFF;
     
     mix-blend-mode: luminosity;
 }
 .lista{
     color:#16388F; 
+    background: linear-gradient(180deg, rgba(227, 231, 47, 0.9) 0%, #16388F 100%);
 }
