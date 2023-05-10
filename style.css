@@ -210,6 +210,7 @@ footer{
     mix-blend-mode: luminosity;
 }
 .lista{
+    width:1440px;
     top:885px;
     position: absolute;
     padding: 4px;
