@@ -199,6 +199,15 @@ h3{
     }
     
 footer{
+/*
+    position: absolute;
+    left: -1px;
+    top: 600px;
+    width: 1440px;
+    background: #63562B;
+*/
+
+
     padding: 4px;
     position: absolute;
     margin:auto;
