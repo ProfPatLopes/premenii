@@ -19,32 +19,24 @@ background: #16388F;
 
 .menu-lista {
     
-    width: 113px;
-    height: 19px;
-    left: 1114px;
-    top: 8px;
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    font-size: 16px;
-    position: absolute;
-    
-    height: 27px;
-    left: 0px;
-    
-    background: #16388F;
+    padding: 4px;
+   
+    margin: 0 16px;
 
 }
 
 
 .menu-lista-item{
     top:8px;
-    
+    font-size: 14px;
     color:#FFFFFF;
     height: 23px;
     
     display: inline-block;
     padding: 4px;
     margin: 0 16px;
+    
+
     
 }
 
