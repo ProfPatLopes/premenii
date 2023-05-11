@@ -1,8 +1,8 @@
 .body{
     position: absolute;
-    top:250px;
+    top:222px;
 width: 1440px;
-height: 623px;
+height: 651px;
 left: 0px;
 background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
 }
@@ -46,11 +46,12 @@ background: #16388F;
 width: 1440px;
 height: 229px;
 left: 0px;
-top: 28px;
+top: 0px;
 
 background: #16388F;
 }
 .cabec-imagem{
+    top:28px;
     position: absolute;
     width: 202px;
     
@@ -64,7 +65,7 @@ background: #16388F;
 width: 564px;
 height: 106px;
 left: 438px;
-top: 71px;
+top: 13px;
 
 font-family: 'Indie Flower';
 font-style: normal;
@@ -83,10 +84,11 @@ color: #FFFFFF;
 .estudante {
     
     position: absolute;
-    width: 1440px;
+    width: 827px;
     height: 490px;
     left: -6px;
     top: 120px; 
+    background: rgba(22, 56, 143, 0.64);
 }
 
 .estudante-todos{
