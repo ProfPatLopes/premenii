@@ -1,4 +1,9 @@
-
+body{
+    width: 1440px;
+    background-color:  #16388F ;
+    display: inline;
+    
+}
 .cabec {
    
     position: absolute;
