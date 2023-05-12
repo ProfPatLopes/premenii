@@ -87,19 +87,13 @@ background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
     
 position: absolute;
 width: 223px;
-height: 70px;
-left: 314px;
-top: 322px;
+left: 14px;
+top: -10px;
 
 font-family: 'Indie Flower';
 font-style: normal;
-font-weight: 400;
-font-size: 48px;
-line-height: 70px;
-/* identical to box height */
-
-
-color: #FFFFFF;
+font-size: 22px;
+color: #edf10f;
 }
 .estudante-div{
     text-align: center;
