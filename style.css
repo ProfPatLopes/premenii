@@ -92,7 +92,7 @@ background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
     text-align: center;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
-.estudante-categoria{
+.estudante-categoria1{
     
 position: absolute;
 width: 223px;
@@ -104,10 +104,36 @@ font-style: normal;
 font-size: 22px;
 color: #edf10f;
 }
-.estudante-div{
-    text-align: center;
-    padding: 16px 0;
-}
+
+.estudante-categoria2{
+    
+    position: absolute;
+    width: 223px;
+    left: 14px;
+    top: 300px;
+    
+    font-family: 'Indie Flower';
+    font-style: normal;
+    font-size: 22px;
+    color: #edf10f;
+    }
+   
+.estudante-categoria3{
+    
+    position: absolute;
+    width: 223px;
+    left: 14px;
+    top: 350px;
+    
+    font-family: 'Indie Flower';
+    font-style: normal;
+    font-size: 22px;
+    color: #edf10f;
+    }
+    .estudante-div{
+        text-align: center;
+        padding: 16px 0;
+    }
 h3{
     
     font-family: 'Lucida Sans';
