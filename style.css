@@ -1,81 +1,55 @@
-.body{
-    position: absolute;
-    top:222px;
-width: 1440px;
-height: 651px;
-left: 0px;
-background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
-}
-.menu{
-  
-    position: absolute;
-width: 1440px;
-height: 28px;
-left: 0px;
-top: -1px;
-
-background: #16388F;
-}
-
-.menu-lista {
-    
-    padding: 4px;
-   
-    margin: 0 16px;
-
-}
-
-
-.menu-lista-item{
-    top:8px;
-    font-size: 14px;
-    color:#FFFFFF;
-    height: 23px;
-    
-    display: inline-block;
-    padding: 4px;
-    margin: 0 16px;
-    
-
-    
-}
 
 .cabec {
    
     position: absolute;
-width: 1440px;
-height: 229px;
-left: 0px;
-top: 0px;
-
-background: #16388F;
-}
-.cabec-imagem{
-    top:28px;
-    position: absolute;
-    width: 202px;
+    width: 1440px;
+    height: 229px;
+    left: 0px;
+    top: 0px;
     
-    left: 181px;
-      
+    background: #16388F;
+}
+
+.menu-lista {
+    position:absolute;
+    width:300px;
+    left:1000px;
+    padding: 4px;
+}
+
+
+.menu-lista-item{
+    font-size: 14px;
+    color:#FFFFFF;
+    display: inline-block;
+    margin: 0 16px;    
+}
+
+.cabec-imagem{
+    top:30px;
+    position: absolute;
+    width: 202px;    
+    left: 180px;      
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 .cabec-apre {
     position: absolute;
 width: 564px;
-height: 106px;
 left: 438px;
-top: 13px;
-
-font-family: 'Indie Flower';
-font-style: normal;
-font-weight: 400;
 font-size: 72px;
-line-height: 105px;
-
 color: #FFFFFF;
-
 }
+
+.body{
+    position: absolute;
+    top:225px;
+width: 1440px;
+height: 651px;
+left: 0px;
+background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
+}
+
 
 .avataralunop{
     width: 150px;
@@ -84,9 +58,9 @@ color: #FFFFFF;
 .estudante {
     
     position: absolute;
-    width: 827px;
+    width: 830px;
     height: 490px;
-    left: -6px;
+    left: 305px;
     top: 120px; 
     background: rgba(22, 56, 143, 0.64);
 }
@@ -119,16 +93,12 @@ h3{
 }
 
 .scratch{
-    
+    top:300px;
     position: absolute;
-    width: 333px;
-    height: 123px;
-    left: 549px;
+    width: 200px;
+    left: 50px;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-
-    
-
-    }
+}
     
     .cat {
         position: absolute;
@@ -201,34 +171,24 @@ h3{
     }
     
 footer{
-/*
-    position: absolute;
-    left: -1px;
-    top: 600px;
-    width: 1440px;
-    background: #63562B;
-*/
-
-
     padding: 4px;
     position: absolute;
     margin:auto;
     left: -1px;
-    top:862px;
+    top:875px;
     width: 1433px;
-    height: 27px;
     background: #8B857B;
     font-family: 'Indie Flower';
     font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     color: #FFFFFF;
     
     mix-blend-mode: luminosity;
 }
 .lista{
+    left:0px;
     width:1440px;
-    top:885px;
+    top:902px;
     position: absolute;
     padding: 4px;
     color:#16388F; 
