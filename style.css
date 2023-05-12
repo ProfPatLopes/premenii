@@ -77,7 +77,7 @@ background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
 .estudante-todos{
     display: grid;
     text-align: center;
-    grid-template-columns: 20% 20% 20%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
 .estudante-categoria1{
     
