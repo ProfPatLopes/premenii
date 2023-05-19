@@ -39,20 +39,20 @@ body{
 
 .cabec-titulo {
  
-position: absolute;
-width: 630px;
-height: 124px;
-left:405px;
-font-family: 'Indie Flower';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 93px;
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
+    position: absolute;
+    width: 750px;
+    
+    left:325px;
+    font-family: 'Indie Flower';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 90px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
 }
 
 .corpo{
