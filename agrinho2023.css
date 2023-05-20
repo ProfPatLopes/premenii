@@ -63,19 +63,12 @@ height: 651px;
 left: 0px;
 background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
 }
-.corpo-imagem1{
-    top:-70px;
-    position: absolute;
-    width: 202px;    
-    left: 400px;    
-    
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-}
+
 .corpo-imagem2{
-    top:-70px;
+    top: -30px;
     position: absolute;
-    width: 202px;    
-    left: 1000px;    
+    width: 110px;
+    left: 900px;    
     
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
